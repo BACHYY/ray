@@ -127,6 +127,7 @@ scripts/nodes.txt
 .idea/dictionaries
 .llvm-local.bazelrc
 .aider*
+rebuild.sh
 
 # Sensitive or high-churn files:
 .idea/**/dataSources/
